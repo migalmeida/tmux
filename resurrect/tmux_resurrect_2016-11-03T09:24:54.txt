@@ -1,0 +1,9 @@
+pane	init	0	:bash	1	:*	0	:/Users/miguelalmeida/dev/paddypower/tests-on-ios-devices	0	bash	:
+pane	init	0	:bash	1	:*	1	:/Users/miguelalmeida/dev/paddypower/tests-on-ios-devices	0	bash	:
+pane	init	0	:bash	1	:*	2	:/Users/miguelalmeida/dev/paddypower/tests-on-ios-devices	1	bash	:
+pane	init	0	:bash	1	:*	3	:/Users/miguelalmeida/dev/paddypower/tests-on-ios-devices	0	bash	:
+pane	init	0	:bash	1	:*	4	:/Users/miguelalmeida/dev/paddypower/tests-on-ios-devices	0	bash	:
+pane	init	0	:bash	1	:*	5	:/Users/miguelalmeida	0	bash	:
+pane	init	0	:bash	1	:*	6	:/Users/miguelalmeida/dev/paddypower/tests-on-ios-devices	0	bash	:
+window	init	0	1	:*	c1d8,176x44,0,0[178x14,0,0{58x14,0,0,1,58x14,59,0,6,60x14,118,0,8},178x14,0,15{58x14,0,15,12,58x14,59,15,9,60x14,118,15,11},178x16,0,30,7]
+state	init	
